@@ -307,6 +307,21 @@ https://wokwi.com/projects/461780873004005377
 
 ---
 
+## 📸 Simulation
+
+<img width="721" height="725" alt="image" src="https://github.com/user-attachments/assets/75df04f1-64db-44a1-a5de-6d8470fad5f0" />
+
+---
+
+## 📸 Wiring & Schematic
+
+<img width="1339" height="856" alt="image" src="https://github.com/user-attachments/assets/10f2d986-4a35-4aff-92a8-6c25da9740f1" />
+.
+<img width="1348" height="765" alt="image" src="https://github.com/user-attachments/assets/3e21ff08-58cf-4bcd-84f0-3420096682f0" />
+.
+
+---
+
 ## 👤 Author & Contact
 
 👨 **Name:** Aniket Chowdhury (aka Hashtag)  
@@ -317,8 +332,30 @@ https://wokwi.com/projects/461780873004005377
 
 ---
 
+## 📜 License
+
+This project is released under a Modified MIT License.
+It is intended for personal and non-commercial use only.
+
+🚫 Commercial use or distribution for profit is not permitted without prior written permission.
+🤝 For collaboration, reuse, or licensing inquiries, please contact the author.
+
+📄 View Full License <br>
+[![License: MIT–NC](https://img.shields.io/badge/license-MIT--NC-blue.svg)](./LICENSE)
+
+---
+
+## ❤️ Acknowledgements
+
+This is a solo passion project, built with countless nights of tinkering, testing, and debugging.  
+If you find it useful or inspiring, feel free to ⭐ the repository or connect with me on social media!
+
+---
+
 ```cpp
 // v1.5 — The machine now remembers.
 // High score saved. Power off. Come back.
 // It still knows your best.
 ```
+---
+> _ "The machine remembers everything. The question is — can you?"
