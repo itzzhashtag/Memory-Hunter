@@ -317,7 +317,7 @@ https://wokwi.com/projects/461780873004005377
 
 <img width="1231" height="843" alt="image" src="https://github.com/user-attachments/assets/d7eb3362-39dc-4320-8193-e9efe62c924d" />
 .
-<img width="1317" height="845" alt="image" src="https://github.com/user-attachments/assets/cd58fe44-3d3c-42e8-a86a-1017c734666c" />
+<img width="1254" height="847" alt="image" src="https://github.com/user-attachments/assets/101fff39-0948-41fb-8d6a-bb2828a91c5f" />
 .
 
 ---
