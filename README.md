@@ -188,6 +188,21 @@ v1.5    | EEPROM high score + idle marquee + timeout fix
 
 ---
 
+## 📸 Simulation
+
+<img width="721" height="725" alt="image" src="https://github.com/user-attachments/assets/75df04f1-64db-44a1-a5de-6d8470fad5f0" />
+
+---
+
+## 📸 Wiring & Schematic
+
+<img width="1231" height="843" alt="image" src="https://github.com/user-attachments/assets/d7eb3362-39dc-4320-8193-e9efe62c924d" />
+.
+<img width="1317" height="845" alt="image" src="https://github.com/user-attachments/assets/cd58fe44-3d3c-42e8-a86a-1017c734666c" />
+.
+
+---
+
 ## 👤 Author & Contact
 
 👨 **Name:** Aniket Chowdhury (aka Hashtag)  
