@@ -315,9 +315,9 @@ https://wokwi.com/projects/461780873004005377
 
 ## 📸 Wiring & Schematic
 
-<img width="1339" height="856" alt="image" src="https://github.com/user-attachments/assets/10f2d986-4a35-4aff-92a8-6c25da9740f1" />
+<img width="1231" height="843" alt="image" src="https://github.com/user-attachments/assets/d7eb3362-39dc-4320-8193-e9efe62c924d" />
 .
-<img width="1348" height="765" alt="image" src="https://github.com/user-attachments/assets/3e21ff08-58cf-4bcd-84f0-3420096682f0" />
+<img width="1317" height="845" alt="image" src="https://github.com/user-attachments/assets/cd58fe44-3d3c-42e8-a86a-1017c734666c" />
 .
 
 ---
